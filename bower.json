@@ -1,0 +1,33 @@
+{
+  "name": "angular-unsafe",
+  "version": "1.0.0",
+  "authors": [
+    "Miquel Martín <info@appfeel.com>"
+  ],
+  "description": "Angular filter for $sce.trustAs",
+  "main": "dist/angular-unsafe.min.js",
+  "keywords": [
+    "angular",
+    "trustAs",
+    "trustAsHtml",
+    "trustAsJs",
+    "trustAsUrl",
+    "trustAsResourceUrl",
+    "$sce",
+    "sce",
+    "strict contextual escaping",
+    "unsafe"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/appfeel/angular-unsafe",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
