@@ -1,4 +1,4 @@
-angular.module('angular.unsafe')
+angular.module('angular.unsafe', [])
 
     .filter('unsafe', ['$sce', function ($sce) {
         return function (value, type) {
