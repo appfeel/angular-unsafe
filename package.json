@@ -1,6 +1,6 @@
 {
   "name": "angular-unsafe",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Angular filter for $sce.trustAs",
   "main": "dist/angular-unsafe.min.js",
   "scripts": {
@@ -21,7 +21,7 @@
   "author": "Miquel Martín <info@appfeel.com>",
   "license": "MIT",
   "repository": {
-      "url": "https://github.com/appfeel/angular-unsafe",
-      "type": "git"
+    "url": "https://github.com/appfeel/angular-unsafe",
+    "type": "git"
   }
 }
